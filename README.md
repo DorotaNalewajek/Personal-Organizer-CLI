@@ -85,5 +85,5 @@ Dorota Nalewajek
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=6AF4F7&center=true&vCenter=true&width=500&lines=I+build+%F0%9F%9A%80+I+learn+%F0%9F%A7%A0+I+automate+%F0%9F%A4%96" alt="Typing SVG Footer" />
 </p>
-```
+
 
