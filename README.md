@@ -54,12 +54,11 @@ Run the script:
 python3 organizer.py
 
 💡 (On Windows, you may need to use python organizer.py instead)
-<br>
+
 
 ```
 
-
-🧠 What I Learned
+## 🧠 What I Learned
 
 💡 Building a full CLI app from scratch
 🧱 Structuring code with classes and methods
@@ -68,7 +67,7 @@ python3 organizer.py
 
 ⸻
 
-📦 Future Plans
+## 🗒️ Future plans
 
 ✨ Add notification system for reminders
 📂 Support multiple profiles or categories
@@ -76,7 +75,8 @@ python3 organizer.py
 
 ⸻
 
-👩‍💻 Author
+
+## 🥷🏽 Author
 
 Dorota Nalewajek
 📫 dorotanalewajek@gmail.com
