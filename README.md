@@ -59,7 +59,7 @@ Enter task description: Finish FastAPI project
 Enter due date (YYYY-MM-DD): 2025-10-20
 Task added successfully 🎯
 
-✨ What I Learned
+**#✨ What I Learned**
 
 💡 Building a full CLI app from scratch
 🧱 Structuring code with classes and methods
@@ -67,13 +67,13 @@ Task added successfully 🎯
 ⚙️ Designing logical flow and user prompts
 
 
-📦 Future Plans
+**#📦 Future Plans**
 	•	Add notification system for reminders
 	•	Save and load multiple profiles
 	•	Add colored CLI output for better UX
 
 
-👩‍💻 Author
+#**👩‍💻 Author**
 
 Dorota Nalewajek
 📫 dorotanalewajek@gmail.com
