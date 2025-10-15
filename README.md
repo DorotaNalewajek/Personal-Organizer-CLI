@@ -1,3 +1,10 @@
+<!-- 💫 ANIMATED HEADING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Personal+Organizer+CLI;Plan+your+day+like+a+pro;Python+OOP+Project+by+Dorota+Nalewajek" alt="Typing SVG" />
+</p>
+
+---
+
 # 🧭 Personal Organizer CLI
 
 Simple but powerful **command-line personal organizer** written in Python.  
@@ -18,10 +25,20 @@ No distractions, no clutter. Just clean logic. 🧠
 
 ## ⚙️ Tech Stack
 
-- **Language:** Python 3.10+
-- **Paradigm:** Object-Oriented Programming (OOP)
-- **Concepts used:** Classes, methods, file handling (`open/read/write`)
-- **Storage:** JSON-based local file save
+- **Language:** Python 3.10+  
+- **Paradigm:** Object-Oriented Programming (OOP)  
+- **Concepts used:** Classes, Methods, File Handling (`open/read/write`)  
+- **Storage:** JSON-based local file save  
+
+---
+
+## 🚀 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DorotaNalewajek/Personal-Organizer-CLI.git
+cd Personal-Organizer-CLI
 
 ---
 
@@ -38,42 +55,27 @@ python3 organizer.py
 
 💡 (On Windows, you may need to use python organizer.py instead)
 
-🧱 Project Structure
-Personal-Organizer-CLI/
-├── organizer.py         # main script
-├── README.md            # documentation
-├── .gitignore
-└── data/                # optional folder for task data
 
-🧠 Example Usage
+⸻
 
-[1] Add new task
-[2] Remove task
-[3] Show all tasks
-[4] Mark task as done
-[5] Exit
-
-> Choose: 1
-Enter category: Work
-Enter task description: Finish FastAPI project
-Enter due date (YYYY-MM-DD): 2025-10-20
-Task added successfully 🎯
-
-**#✨ What I Learned**
+🧠 What I Learned
 
 💡 Building a full CLI app from scratch
 🧱 Structuring code with classes and methods
 💾 Reading and writing JSON files
 ⚙️ Designing logical flow and user prompts
 
+⸻
 
-**#📦 Future Plans**
-	•	Add notification system for reminders
-	•	Save and load multiple profiles
-	•	Add colored CLI output for better UX
+📦 Future Plans
 
+✨ Add notification system for reminders
+📂 Support multiple profiles or categories
+🎨 Add colored CLI output for better UX
 
-#**👩‍💻 Author**
+⸻
+
+👩‍💻 Author
 
 Dorota Nalewajek
 📫 dorotanalewajek@gmail.com
@@ -81,5 +83,3 @@ Dorota Nalewajek
 💼 linkedin.com/in/dorotanalewajek
 
 ⸻
-
-💬 “I build, I learn, I automate.”
