@@ -56,7 +56,7 @@ python3 organizer.py
 💡 (On Windows, you may need to use python organizer.py instead)
 
 
-⸻
+<br>
 
 🧠 What I Learned
 
