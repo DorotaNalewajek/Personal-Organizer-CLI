@@ -54,10 +54,10 @@ Run the script:
 python3 organizer.py
 
 💡 (On Windows, you may need to use python organizer.py instead)
-
-
-```markdown
 <br>
+
+```
+
 
 🧠 What I Learned
 
