@@ -39,24 +39,26 @@ Clone the repository:
 ```bash
 git clone https://github.com/DorotaNalewajek/Personal-Organizer-CLI.git
 cd Personal-Organizer-CLI
-
+```
 ---
 
 ## 🚀 How to Run
 
-Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/DorotaNalewajek/Personal-Organizer-CLI.git
 cd Personal-Organizer-CLI
-
-Run the script:
-python3 organizer.py
-
-💡 (On Windows, you may need to use python organizer.py instead)
-
-
 ```
+
+### Run the script:
+```bash
+python3 organizer.py
+```
+### 💡 (On Windows, you may need to use python organizer.py instead)
+
+
+
 
 ## 🧠 What I Learned
 
